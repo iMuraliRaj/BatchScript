@@ -1,3 +1,6 @@
 1. Echo:
-
    -- The Echo command is used to display any text in the console
+   -- No need to mention the single quote, double quote for the string
+   -- We can display all the data type like string, integer, characters
+ Syntax:
+   echo text
